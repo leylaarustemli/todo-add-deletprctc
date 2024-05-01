@@ -1,0 +1,20 @@
+li{
+  list-style: none;
+  color: black;
+}
+.btn-li{
+  display: flex;
+  gap: 15px;
+  width: 300px;
+  border: 1px solid black;
+  justify-content: space-between;
+  padding: 10px;
+  margin-top: 10px;
+  background-color: aqua;
+}
+.btn-li button{
+  background-color: red;
+  border: none;
+  padding: 6px;
+  border-radius: 8px;
+}
